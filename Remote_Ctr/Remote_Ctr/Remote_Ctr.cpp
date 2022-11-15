@@ -16,7 +16,7 @@ CWinApp theApp;
 
 using namespace std;
 
-int main()  
+int main()  // 测试语句
 {
     int nRetCode = 0;
 
