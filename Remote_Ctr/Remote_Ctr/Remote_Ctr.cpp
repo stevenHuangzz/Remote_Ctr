@@ -11,7 +11,7 @@
 
 
 // 唯一的应用程序对象
-
+// branch_local_2
 CWinApp theApp;
 
 using namespace std;
